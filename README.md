@@ -1,2 +1,2 @@
-# EOSVR
+# MirrorVR
 ### Check back later...
