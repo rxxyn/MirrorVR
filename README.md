@@ -5,3 +5,16 @@
 
 ### NOTE: This plugin will be in development for quite a bit. I am aiming to fine tune this as much as possible.
 #### Check back later for more information.
+
+
+&nbsp;
+### CREDITS:
+
+Mirror - the backbone <br />
+&nbsp;
+
+FakeByte - the relay, (the 2nd backbone) <br />
+&nbsp;
+
+JokerJosh - 2nd Developer <br />
+&nbsp;
