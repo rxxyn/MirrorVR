@@ -7,6 +7,15 @@
 ### NOTE: This plugin will be in development for quite a bit. I am aiming to fine tune this as much as possible.
 #### Check back later for more information.
 
+<br />
+
+# PLANNED
+
+-Synced cosmetics<br />
+-Synced colors<br />
+-Synced names<br />
+-Easy presets for grabbables<br />
+
 
 &nbsp;
 ### CREDITS:
