@@ -5,7 +5,25 @@
 ### MirrorVR is a Unity plugin that uses the [Epic Online Services transport](https://github.com/FakeByte/EpicOnlineTransport) with [Mirror](https://mirror-networking.gitbook.io/docs/) to create an easy, free, and beginner-friendly experience for multiplayer VR games.
 
 ### NOTE: This plugin will be in development for quite a bit. I am aiming to fine tune this as much as possible.
+#### For using Mirror VR with Android, you will need to follow a very, VERY, exact tutorial.
 #### Check back later for more information.
+
+# Syntax example
+
+To use MirrorVR, lets use it!
+```
+using MirrorVR;
+```
+Setting Names
+```
+string name;
+MirrorVRManager.SetUsername(Name);
+```
+Setting Colors
+```
+Color colour;
+MirrorVRManager.SetColour(colour);
+```
 
 <br />
 
