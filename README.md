@@ -29,6 +29,8 @@ MirrorVRManager.SetColour(colour);
 
 # PLANNED
 
+-Full Android documentation (Iykyk)<br />
+-Relativly easy implemantation <br />
 -Synced cosmetics<br />
 -Synced colors<br />
 -Synced names<br />
