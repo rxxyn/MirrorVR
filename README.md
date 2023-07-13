@@ -31,7 +31,7 @@ Creating lobbies
 bool customName; // customName needs to be true in order to use a custom lobby name
 
 string lobbyName;
-lobbyname = "mirrorvr";
+lobbyName = "mirrorvr";
 
 MirrorVRManager.CreateLobby(customName, lobbyname);
 ```
