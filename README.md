@@ -13,18 +13,27 @@
 # Syntax example
 
 To use MirrorVR, lets use it!
-```
+```cs
 using MirrorVR;
 ```
 Setting Names
-```
+```cs
 string name;
 MirrorVRManager.SetUsername(Name);
 ```
 Setting Colors
-```
+```cs
 Color colour;
 MirrorVRManager.SetColour(colour);
+```
+Creating lobbies
+```cs
+bool customName; // customName needs to be true in order to use a custom lobby name
+
+string lobbyName;
+lobbyname = "mirrorvr";
+
+MirrorVRManager.CreateLobby(customnName, lobbyname);
 ```
 
 <br />
