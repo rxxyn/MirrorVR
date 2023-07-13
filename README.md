@@ -28,7 +28,9 @@ MirrorVRManager.SetColour(colour);
 ```
 Creating lobbies
 ```cs
-//the first parameter is a boolean, if you want to have a custom name for your lobby, enter true. if not, enter false
+//the first parameter is a boolean,
+//if you want to have a custom name for your lobby, enter true.
+//if not, enter false and don't include a string for the second parameter.
 
 string lobbyName;
 lobbyName = "mirrorvr";
