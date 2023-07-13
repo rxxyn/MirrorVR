@@ -28,12 +28,12 @@ MirrorVRManager.SetColour(colour);
 ```
 Creating lobbies
 ```cs
-bool customName; // customName needs to be true in order to use a custom lobby name
+//the first parameter is a boolean, if you want to have a custom name for your lobby, enter true. if not, enter false
 
 string lobbyName;
 lobbyName = "mirrorvr";
 
-MirrorVRManager.CreateLobby(customName, lobbyname);
+MirrorVRManager.CreateLobby(true, lobbyName);
 ```
 
 <br />
