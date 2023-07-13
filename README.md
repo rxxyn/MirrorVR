@@ -33,7 +33,7 @@ bool customName; // customName needs to be true in order to use a custom lobby n
 string lobbyName;
 lobbyname = "mirrorvr";
 
-MirrorVRManager.CreateLobby(customnName, lobbyname);
+MirrorVRManager.CreateLobby(customName, lobbyname);
 ```
 
 <br />
