@@ -10,6 +10,8 @@
 #### For using Mirror VR with Android, you will need to follow a very, VERY, exact tutorial.
 #### Check back later for more information.
 
+&nbsp;
+
 # Syntax example
 
 To use MirrorVR, lets use it!
@@ -41,13 +43,14 @@ MirrorVRManager.CreateLobby(true, lobbyName);
 //this is a lobby with a randomly generated name. (not custom)
 MirrorVRManager.CreateLobby(false);
 ```
-
+&nbsp;
 
 # DOCUMENTATION
 
 #### For full documentation on Mirror VR, navigate to the top of this repo and press Wiki.
 #### If you would just like a shortcut, click [here](https://github.com/rxxyn/MirrorVR/wiki)
 
+&nbsp;
 
 # PLANNED
 
