@@ -58,10 +58,8 @@ MirrorVRManager.CreateLobby(false);
 &nbsp;
 # CREDITS
 
-Mirror - the backbone <br />
+JokerJosh - 2nd Developer <br />
+
+Mirror and Epic Games - servers and backbone <br />
 
 FakeByte - the relay, (the 2nd backbone) <br />
-
-Epic Games - the service powering everything! (thank you for free bandwith bbg) <br />
-
-JokerJosh - 2nd Developer <br />
