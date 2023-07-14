@@ -43,6 +43,10 @@ MirrorVRManager.CreateLobby(false);
 ```
 
 <br />
+# DOCUMENTATION
+
+[Mirror VR Full Documentation](https://github.com/rxxyn/MirrorVR/wiki)
+
 
 # PLANNED
 
