@@ -62,4 +62,6 @@ Mirror - the backbone <br />
 
 FakeByte - the relay, (the 2nd backbone) <br />
 
+Epic Games - the service powering everything! (thank you for free bandwith bbg) <br />
+
 JokerJosh - 2nd Developer <br />
