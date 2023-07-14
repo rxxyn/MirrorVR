@@ -56,7 +56,7 @@ MirrorVRManager.CreateLobby(false);
 
 
 &nbsp;
-### CREDITS:
+# CREDITS
 
 Mirror - the backbone <br />
 
