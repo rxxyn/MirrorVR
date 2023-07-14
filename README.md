@@ -42,10 +42,11 @@ MirrorVRManager.CreateLobby(true, lobbyName);
 MirrorVRManager.CreateLobby(false);
 ```
 
-<br />
+
 # DOCUMENTATION
 
-[Mirror VR Full Documentation](https://github.com/rxxyn/MirrorVR/wiki)
+#### For full documentation on Mirror VR, navigate to the top of this repo and press Wiki.
+#### If you would just like a shortcut, click [here](https://github.com/rxxyn/MirrorVR/wiki)
 
 
 # PLANNED
