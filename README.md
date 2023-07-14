@@ -35,7 +35,11 @@ Creating lobbies
 string lobbyName;
 lobbyName = "mirrorvr";
 
+//this is a lobby with a custom name.
 MirrorVRManager.CreateLobby(true, lobbyName);
+
+//this is a lobby with a randomly generated name. (not custom)
+MirrorVRManager.CreateLobby(false);
 ```
 
 <br />
@@ -44,6 +48,7 @@ MirrorVRManager.CreateLobby(true, lobbyName);
 
 -Full Android documentation (Iykyk)<br />
 -Relativly easy implementation  <br />
+-Host migration <br />
 -Synced cosmetics<br />
 -Synced colors<br />
 -Synced names<br />
