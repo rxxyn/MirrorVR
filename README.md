@@ -28,6 +28,22 @@ Setting Colors
 Color colour;
 MirrorVRManager.SetColour(colour);
 ```
+Finding lobbies
+```cs
+
+//finding lobbies without lobby search parameters
+
+uint maxlobbyResults = 5;
+MirrorVRManager.FindLobbies(maxlobbyResults);
+
+//finding lobbies with lobby search parameters
+
+uint maxlobbyResults = 10;
+LobbySearchSetParameterOptions[] lobbySearchSetParameterOptions = new();
+
+MirrorVRManager.FindLobbies(maxLobbyResults, lobbySearchSetParameterOptions);
+```
+
 Creating lobbies
 ```cs
 //the first parameter is a boolean,
