@@ -25,8 +25,8 @@ MirrorVRManager.SetUsername(Name);
 ```
 Setting Colors
 ```cs
-Color colour;
-MirrorVRManager.SetColour(colour);
+Color color;
+MirrorVRManager.SetColor(color);
 ```
 Finding lobbies
 ```cs
