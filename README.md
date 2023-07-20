@@ -84,6 +84,8 @@ MirrorVRManager.CreateLobby(false);
 
 JokerJosh - 2nd Developer <br />
 
+CannonKitty - modeled the default player <br />
+
 Mirror and Epic Games - servers and backbone <br />
 
 FakeByte - the relay, (the 2nd backbone) <br />
