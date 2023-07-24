@@ -1,7 +1,7 @@
 # MirrorVR
 [![Download](https://img.shields.io/badge/Download-blue.svg)](https://github.com/rxxyn/MirrorVR/releases)
-[![Discord](https://img.shields.io/badge/Discord-blue.svg)](https://discord.gg/) <br/>
-[![License](https://img.shields.io/badge/License-Apache_2.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Discord](https://img.shields.io/badge/Discord-blue.svg)](https://discord.gg/) &nbsp; [![License](https://img.shields.io/badge/License-Apache_2.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
+
 
 
 ![MirrorVRWideTransparent](https://github.com/rxxyn/MirrorVR/assets/113850083/4ab6122f-45bb-4550-ac9c-d39bc4b7bc71)
