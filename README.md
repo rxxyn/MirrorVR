@@ -10,7 +10,11 @@
 
 &nbsp;
 
+Recommended Unity Version: [2021.3.28](https://unity.com/releases/editor/archive)<br />
+It is **NOT** recommended to use any version(s) under 2020.<br />
+You will have the best experience using 2021.<br />
 
+&nbsp;
 
 # Documentation
 
