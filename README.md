@@ -1,12 +1,21 @@
-# MirrorVR
+# Mirror For VR
 [![Download](https://img.shields.io/badge/Download-blue.svg)](https://github.com/rxxyn/MirrorVR/releases) &nbsp; 
 [![Discord](https://img.shields.io/badge/Discord-blue.svg)](https://discord.gg/) &nbsp; [![License](https://img.shields.io/badge/License-Apache_2.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
-
 ![MirrorVRWideTransparent](https://github.com/rxxyn/MirrorVR/assets/113850083/4ab6122f-45bb-4550-ac9c-d39bc4b7bc71)
 
-### Mirror VR is a Unity plugin that uses the [Epic Online Services transport](https://github.com/FakeByte/EpicOnlineTransport) by [FakeByte](https://github.com/FakeByte/) with [Mirror](https://mirror-networking.gitbook.io/docs/) to create an easy, free, and beginner-friendly experience for multiplayer VR games.
+## Before you have ANY use with MirrorVR, you must agree to the terms below.
+### Do not associate MirrorVR with Photon or Fusion VR.
+### and agree to the license terms. : -)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+## Mirror VR is a Unity plugin that uses the [Epic Online Services transport](https://github.com/FakeByte/EpicOnlineTransport) by [FakeByte](https://github.com/FakeByte/) with [Mirror](https://mirror-networking.gitbook.io/docs/) to create an easy, free, and beginner-friendly experience for multiplayer VR games.
 
 &nbsp;
 
