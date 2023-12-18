@@ -5,10 +5,6 @@
 
 ![MirrorVRWideTransparent](https://github.com/rxxyn/MirrorVR/assets/113850083/4ab6122f-45bb-4550-ac9c-d39bc4b7bc71)
 
-## Before you have ANY use with MirrorVR, you must agree to the terms below.
-### Do not associate MirrorVR with Photon or Fusion VR.
-### and agree to the license terms. : -)
-
 &nbsp;
 
 &nbsp;
@@ -50,7 +46,7 @@ JokerJosh - 2nd Developer <br />
 
 CannonKitty - modeled the default player <br />
 
-fchb1239 - Some project inspiration<br />
+fchb1239 - Partial project inspiration<br />
 
 Mirror and Epic Games - servers and backbone <br />
 
